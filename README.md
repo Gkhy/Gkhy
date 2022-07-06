@@ -10,4 +10,4 @@
 
 2022.0705~
 
-![Bulbasaur](TIL(매일 배운 내용).assets/Bulbasaur.gif)
+![Bulbasaur](README.assets/Bulbasaur.gif)
